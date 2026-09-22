@@ -203,9 +203,8 @@ main.container {
   background: var(--accent);
 }
 
-.placeholder {
-  color: var(--text-faint);
-  font-style: italic;
+.product-desc {
+  color: var(--text-dim);
   font-size: 0.88rem;
   display: block;
   margin-top: 2px;
